@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "httpserver1", "httpserver1\httpserver1.vcxproj", "{468F8370-9C02-44EE-A32C-CCA67D128F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468F8370-9C02-44EE-A32C-CCA67D128F04}.Debug|x64.ActiveCfg = Debug|x64
+		{468F8370-9C02-44EE-A32C-CCA67D128F04}.Debug|x64.Build.0 = Debug|x64
+		{468F8370-9C02-44EE-A32C-CCA67D128F04}.Debug|x86.ActiveCfg = Debug|Win32
+		{468F8370-9C02-44EE-A32C-CCA67D128F04}.Debug|x86.Build.0 = Debug|Win32
+		{468F8370-9C02-44EE-A32C-CCA67D128F04}.Release|x64.ActiveCfg = Release|x64
+		{468F8370-9C02-44EE-A32C-CCA67D128F04}.Release|x64.Build.0 = Release|x64
+		{468F8370-9C02-44EE-A32C-CCA67D128F04}.Release|x86.ActiveCfg = Release|Win32
+		{468F8370-9C02-44EE-A32C-CCA67D128F04}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01B4AFA-E2EE-4A1C-B821-6E4503D5272D}
+	EndGlobalSection
+EndGlobal
